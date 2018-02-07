@@ -5,7 +5,7 @@
 Bahnhof _m_ | 火車站
 Park _m_ | 公園
 Zoo _m_ | 動物園
-der botanische Garten｜植物園
+der botanische Garten | 植物園
 Marktplatz _m_ | 市中心的廣場；市集之地
 Reisebüro _n_ | 旅行社
 Rathaus _n_ | 市議會；市政府
