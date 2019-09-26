@@ -2,4 +2,6 @@ table { border-collapse: collapse; }
 td, th { border: 1px solid #999; padding: 3px 6px; }
 h1, h2 { color: darkblue; }
 h3, h4 { color: steelblue; }
-.it { font-family: roman, times; font-style: italic; }
+.it { font-family: roman, times; font-style: italic; font-weight: 100; }
+.no-border td,th { border: none; }
+.ul { text-decoration: underline; }
