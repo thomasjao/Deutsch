@@ -41,5 +41,6 @@ sie sag-t-en      -t-en             sie antwort-et-en     -et-en
 ```
 
 <ol>
-  <li type="a"><i>ab</i>lehnen, <i>auf</i>räumen</li>
+  <li type="a"><i>ab</i>lehnen, <i>auf</i>räumen, bestellen, besuchen, bezahlen, brauchen, danken, dauern, diktieren, drehen, eilen, <i>ein</i>kaufen, entschuldigen, erklären, erzählen, fassen, fragen, fuhren, gehoren, glauben, gratulieren, grüßen, heizen, holen, hören, kaufen, klingeln, leben, legen, lernen, lieben, machen, rauchen, schenken, stellen, studieren, suchen, telefonieren, uben, verbessern, wahlen, wiederholen, wohnen, wollen, wuünschen, zaählen, zeigen.</li>
+  <li type="a">arbeiten, betrachten, enden, erwarten, kosten, mieten, offnen, rechnen, schaden, vermieten, warten.</li>
 </ol>
