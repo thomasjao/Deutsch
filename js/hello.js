@@ -1,6 +1,6 @@
 exports.handler = async(event, context) => {
     return {
         statusCode: 200,
-        body: function(3) { return 3 + 3; }
+        body: `Server connected successful with status code: ${statusCode}`
     };
 }
