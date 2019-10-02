@@ -3,6 +3,6 @@ exports.handler = function(event, context, callback) {
   return callback(null, {
     statusCode: 403,
     header: {'Content-type': 'text/plain'},
-    body: arrMerge
+    body: arrMerge()
   });
 }
