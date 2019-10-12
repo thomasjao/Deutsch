@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg">
-  <line x1="20" y1="20" x2="100" y2="100" stroke="brown" sroke-width="2" fill="transparent" />
-  <circle cx="50" cy="50" r="40" stroke="violet" fill="rgba(85%, 25%, 40%, 0.3)" />
-  <path d="M50 50 Q 30 20 80 50" stroke="red" stroke-width="4" />
-</svg>
