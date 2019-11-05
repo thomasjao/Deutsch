@@ -1,41 +1,31 @@
-# Deutsche Sprachlehre für Ausländer
-## ANHANG
-IV. Teil:
+# Instruction on Entering Germany Special Characters
+## Umlaut and Eszeht
+You may use **HTML ENTITIES** to enter umlaut characters &auml; &Auml; &euml; &Euml; &ouml; &Ouml; and Eszeht &szlig; as shown below:
 
-Wichtige starke und unregelmaßige Verben
+| To enter | You enter |
+|---|---|
+| &auml; | `&auml;` |
+| &Auml; | `&Auml;` |
+| &euml; | `&euml;` |
+| &Euml; | `&Euml;` |
+| &ouml; | `&ouml;` |
+| &Ouml; | `&Ouml;` |
+| &szlig; | `&szlig;` |
 
-I. Vorbemerkung:
+For example, to enter Danke sch&ouml;n!, you type `Danke sch&ouml;n!`
 
-A | E | H | U
---|---|---|---
-ab- | ein- | heim- | um-
-abwarts- | einander- | her- | unter-
-an- | ent- | herein- | ver-
-auf- | entgegen- | hier- | voll-
-aufwarts- | entlang- | hin- | vor-
-aus- | emp- | hinaus- | weg-
-be- | empor- | hinter- | wider-
-bei- | er- | los- | wieder-
-da- | fort- | miß- | zer-
-daran- | für- | mit- | zu-
-darauf- | ge- | nach- | zurück-
-darußen- | gegenüber- | nahe- | zusammen-
-durch- | gleich- | über- | zwischen-
+## quotes
+You may sue **HTML ENTITIES** to enter quotes &bdquo; and &rdquo; as shown below:
 
-2. Verben in alphabetischer Ordnung
+| To enter | You type |
+|---|---|
+| &bdquo; | `&bdquo;` |
+| &rdquo; | `&rdquo;` |
 
-_Infinitiv (3. Pers. Präsens_) | _Präteritum_ (_Konj. II_) | _Part. Perfekt
--------------------------------|---------------------------|---------------
-backen | buk (buke) | gebacken
-befehlen (befiehlt) | befahl (befähle) | befohlen
-beginnen | begann (begänne) | begonnen
-bewegen | bewog (bewöge) | bewogen
-biegen | bog (böge) | gebogen
-bieten | bot (böte) | geboten
-binden | band (bande) | gebunden
-bitten | bat (bäte) | gebeten
-blasen (bläst) | blies | geblasen
-bleiben | blieb | ist geblieben
-braten (brät, bratet) | briet | gebraten
-brechen (bricht) | brach (brache) | gebrochen
-brennen | brannte (brennte) | gebrannt
+For example, a conversation between two persons:
+
+&bdquo;Wie hei&szlig;en Sie?&rdquo;, &bdquo; Ich hei&szlig;e Beier.&rdquo;
+
+You type
+
+`&bdquo;Wie hei&szlig;en Sie?&rdquo;, &bdquo; Ich hei&szlig;e Beier.&rdquo;`
