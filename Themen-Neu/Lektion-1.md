@@ -416,3 +416,162 @@ b) **Ich hei&szlig;e Erwald Hoppe und ...**
 * p) &cir; ____________________________________ &nbsp; &squ; Abdollah wohnt in Erfurt.
 * q) &cir; ____________________________________ &nbsp; &squ; Nein, er hei&szlig;t Juao.
 * r) &cir; ____________________________________ &nbsp; &squ; Das ist Frau Sauer.
+
+**28. Schreiben Sie einen Dialog**
+
+> 1. Ja, bitte sch&ouml;n. - Sind Sie neu hier?
+> 2. Und was machen Sie hier?
+> 3. Nein, aus Neuseeland.
+> 4. Ich bin Programmierer.
+> 5. Guten Morgen, ist hier noch frei?
+> 6. Ich hei&szlig;e John Roberts.
+> 7. Sind Sie aus England?
+> 8. Ja, ich arbeite erst drei Tage hier.
+> Antwort -- 5 -> 1 -> 8 -> 7 -> 3 -> 2 -> 4 -> 6
+
+**29. &bdquo;Noch&rdquo; oder &bdquo;shcon&rdquo;?**
+
+* a) Ihre Kinder sind __________ klein, sie sind erst drei und f&uuml;nf Jahre alt.
+* b) &cir; Ist hier __________ frei? &nbsp; &squ; Ja, bitte.
+* c) &cir; Arbeiten Sie hier __________ lange? &nbsp; &squ; Nein, erst f&uuml;nf Tage.
+* d) Monika Sager studiert __________, Manfred Bode ist __________ Lehrer.
+* e) Zwei Kinder sind __________ Sch&uuml;ler, ein Junge studiert __________.
+* f) Angelika Wiechert ist __________ verheiratet, Klaus Henkel ist __________ ledig.
+* g) &cir; Wo ist Frau Beier? Kommt sie __________? &nbsp; &squ; Sie ist __________ da.
+* h) &cir Wohnen Sie __________ in Hamburg? &nbsp; &squ; Nein, ich lebe jetzt in Dortmund.
+
+
+**30. Erg&auml;nzen Sie.**
+a) &cir; Hallo Ha_____ du Feuer?<br />
+   - &squ; Ja, hier.<br />
+   - &cir; Wohin m&ouml;cht_____ du?<br />
+   - &squ; Nach Hamburg.<br />
+   - &cir; Wart_____ du schon lange?<br />
+   - &squ; Es geht.<br />
+   - &cir; Woher __________ du?<br />
+   - &squ; Ick komm_____ aus Polen.<br />
+     Und woher komm_____ du?
+   - &cir; Ick __________ aus &Ouml;sterreich.<br />
+   - &squ; Was mach_____ du in Deutschland?<br />
+     Arbeit_____ du hier?<br />
+   - &cir; Nein, ich studier_____ in Bonn.
+   
+b) &cir; Hallo, hab_____ ihr Feuer?<br />
+   - &squ Nein.<br />
+   - &cir; Wohin m&ouml;cht_____ ihr?<br />
+   - &squ; Nach M&uuml;nchen.<br />
+   - &cir; Wart_____ schon Lange?<br />
+   - &squ; Es geht.<br />
+   - &cir; Woher __________ ihr?<br />
+   - &squ; Wir komm_____ aus Wien.<br />
+   - &cir; __________ ihr &Ouml;sterreicher?<br />
+   - &squ; Nein, wir __________ Deutsche.<br />
+   - &cir; Und was mach_____ ihr in Wien?<br />
+     Arbeit_____ ihr da?
+   - &squ; Nein, wir studier_____ da.
+   
+**31. Ihre Grammatik, Erg&auml;nzen Sie.
+
+|   | ich | du | wir | ihr |
+|---|---|---|---|---|
+| studieren | studierne |   |   |   |
+| arbeiten |   |   |   |   |
+| sein |   |   |   |   |
+| hei&szlig;en |   |   |   |   |
+
+**32. &bdquo;Danke&rdquo; order &bdquo;bitte&rdquo;?**
+
+a) &cir; Wie geht es Ihnen?<br />
+   &squ; ____________ gut.
+   
+b) &cir; Oh, Entschuldigung!<br />
+   &squ; ________________ sch&ouml;.
+   
+c) &cir; It hier noch frei?<br />
+   &squ; Ja, __________.
+   
+d) &cir; Wie ist Ihr Name?<br />
+   &squ; Farahani.<br />
+   &cir; Bitte buchstabieren Sie!<br />
+   &squ; F-A-R-A-H-A-N-I.<br />
+   &squ; ______________________ sch&ouml;n!<br />
+   &cir; ____________________.
+   
+e) &cir; Ich hei&szlig;e Sauer.<br />
+   &squ; Wie __________?<br />
+   Wie hei&szlig;en Sie?
+   
+f) &cir; Hast du Feuer?<br />
+   &squ; Ja hier, __________.<br />
+   &cir; __________.
+   &cir; __________.
+   
+**33. Welche Antwort pa&szlig;t?**
+
+a) Sind Sie neu hier?<br />
+   - &ascr; Nein, ich bin neu hier.
+   - &bscr; Ja, ich bin schon zwei Monate hier.
+   - &cscr; Nein, ich bin schon vier Jahre hier.
+   
+b) Was sind Sie von Beruf?<br />
+   - &ascr; Sie ist Telefonistin.
+   - &bscr; Ich bin erst drei Tage hier.
+   - &cscr; Ich bin Programmierer.
+ 
+c) Was macht Frau Kurz?
+   - &ascr; Sie ist Sekret&auml;rin.
+   - &bscr; Er ist Ingenieur.
+   - &cscr; Sie arbeitet hier schon find Jahre.
+   
+d) Arbeitet Herr Pelz hier?
+   - &ascr; Nein, er ist Schlosser.
+   - &bscr; Ja, schon drei Jahre.
+   - &cscr; Nein, erst vier Monate.
+   
+e) Ist hier noch frei?
+   - &ascr; Ja, danke.
+   - &bscr; Nein, leider nicht.
+   - &cscr; Nein, danke.
+   
+f) Sind Sie Ingenieur?
+   - &ascr; Nein, Mechaniker.
+   - &bscr; Nein, danke.
+   - &cscr; Ja, bitte.
+   
+g) Habt ihr Feuer?
+   - &ascr; Ja, sehr gut.
+   - &bscr; Nein, es geht.
+   - &cscr; Ja, hier bitte.
+   
+h) Wartet ihr schon lange?
+   - &ascr; Ja, erst zwei Tage.
+   - &bscr; Ja, schon zwei Tage.
+   - &cscr; Ja, wir warten.
+   
+i) Wo liegt Potsdam?
+   - &ascr; Bei Berlin.
+   - &bscr; Aus Berlin.
+   - &cscr; Nach Berlin.
+   
+j) Wohin m&ouml;chtet ihr?
+   - &ascr; Aus Rostock.
+   - &bscr; In Rostock.
+   - &cscr; Nach Rostock.
+   
+k) Woher kommt ihr?
+   - &ascr; In Wien.
+   - &bscr; Aus Wien.
+   - &cscr; Nach Wien.
+   
+**34. Schreiben Sie einen Dialog**
+
+> 1. Wir sind aus Berlin. Und woher kommst du?
+> 2. Bei Hamburg. Wohin m&ouml;chtet ihr?
+> 3. Hallo! Habt ihr Feuer?
+> 4. Wo ist das denn?
+> 5. Danke! Wartet ihr schon lange?
+> 6. Woher seid ihr?
+> 7. Ich? Aus Stade.
+> 8. Ja hier, bitte!
+> 9. Nach Frankfurt. Und du?
+> 10. Nach Wien.
