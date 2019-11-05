@@ -34,3 +34,45 @@
 | Wohin m&ouml;chtet ihr? | M&ouml;chtet ihr nach Wien? | Ich m&ouml;chte nach Zirich. |
 | Was machen Sie? | Sind Sie Arzt? | Nein, ich bin Ingenieur. |
 | Was sind Sie von Beruf? | Wartet ihr schon lange? | Es geht. |
+
+1. **Erg&auml;nzen Sie.**
+
+  > bin/hei&szlig; &nbsp;  Sind &nbsp;   ~~hei&szlig;en~~ &nbsp;   bin   hei&szlig;t &nbsp;   sind &nbsp;   ist &nbsp;   bin &nbsp;   bist &nbsp;   ~~hei&szlig;~~ &nbsp; ist
+
+* a) Wie **hei&szlig;en** Sie? &nbsp; &nbsp; Ich **hei&szlig;** Paul R&ouml;der.
+* b) Wie __________ du? &nbsp; &nbsp; Mein Name __________ Sabine.
+* c) Wer ________ Her L&uuml;ders? &nbsp; &nbsp; Das ________ ich.
+* d) __________ Sie Frau Sauer? &nbsp; &nbsp; Ja, das __________ ich.
+* e) Wer ________ du? &nbsp; &nbsp; Ich ________ Christian.
+* f) Wer ________ Sie? &nbsp; &nbsp; Ich hei&szlig;e Paul L&uuml;ders.
+
+** 2. Was pa&szlig;t?**
+
+  > Das bin ich. &nbsp; &nbsp; Mein Name ist Mahler. &nbsp; &nbsp; Nein, mein Name ist Beier. &nbsp; &nbsp; ~~Guten Tag! Mein Name ist Sauer.~~ Nein, ich hei&szlig; Beier. &nbsp; &nbsp; ~~Gutan Tag! Ich nei&szlig;e Sauer.~~ &nbsp; &nbsp; Ich hei&szlig;e Paul. &nbsp; &nbsp; Mein Name ist Paul. &nbsp; &nbsp; Ich hei&szlig; Mahler.
+  * a) Guten Tag! Ich hei&szlig;e Beier.<br />
+       - Guten Tag! Mein Name ist Sauer.<br />
+       - Guten Tag! Ich hei&szlig; Sauer.
+  * b) Wer ist Herr L&uuml;ders?
+  * c) Wie hei&szlig; Sie?
+  * d) Sind Sie Frau R&ouml;der?
+  * e) Wie hei&szlig;t du?
+  
+**3. Erg&auml;nzen Sie.**
+
+> ist &nbsp; &nbsp; sind &nbsp; &nbsp; bin &nbsp; &nbsp; bist &nbsp; &nbsp; -e &nbsp; &nbsp; -en &nbsp; &nbsp; -t
+
+  * a) Wer ist Frau Beier?<br />
+       - Das __________ ich.<br />
+       - Un wer __________ Sie?
+       - Mein Name __________ Sauer.
+  * b) Wie hei&szlig;_____ du?<br />
+       - Ich hei&szlig;_____ Sabine. Und du?<br />
+       - Mein Name __________ Lea.
+  * c) Wie hei&szlig;_____ Sie?<br />
+       - Ich hei&szlig;_____ R&ouml;der. Und Sie?<br />
+       - Mein Name __________ Werfel.
+  * d) Ich hei&szlig;______ Christian.<br />
+       - Und wer __________ du?<br />
+       - Mein Name __________ Lea.
+       
+  Is <u>underline</u> OK in github?
